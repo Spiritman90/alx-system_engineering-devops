@@ -8,3 +8,4 @@ everyone has permission
 few permissions
 set the mode of heehello
 olleh's mode
+permission to all subdir
