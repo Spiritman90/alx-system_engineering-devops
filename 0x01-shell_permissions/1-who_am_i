@@ -1,2 +1,4 @@
 #!/bin/bash
-id -u -n
+who
+whoami
+id -un
