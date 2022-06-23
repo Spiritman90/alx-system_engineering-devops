@@ -6,3 +6,4 @@ created an empty file
 multiple owners
 everyone has permission
 few permissions
+set the mode of heehello
