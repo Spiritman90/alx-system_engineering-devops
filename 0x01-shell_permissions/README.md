@@ -11,3 +11,4 @@ olleh's mode
 permission to all subdir
 new src
 created new grp
+ownership and group
