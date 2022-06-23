@@ -3,3 +3,4 @@ print all groups
 username of current user
 change owner
 created an empty file
+multiple owners
