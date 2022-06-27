@@ -9,3 +9,4 @@ Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\
 Save current state of directory
 Duplicate last line
 No more javascript
+ Don't just count your directories, make your directories count
