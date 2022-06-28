@@ -19,3 +19,4 @@ Write a shell script that adds the two numbers stored in the environment variabl
  script that prints every other line from the input, starting with the first line.
 Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
 Write a script that converts a number from base 10 to base 16.
+Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
